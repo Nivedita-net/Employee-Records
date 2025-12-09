@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Nivedita",
+    "LastName": "Pradhan",
+    "Email": "abc@gmail.com",
+    "Department": "Developer",
+    "PhoneNumber": "12345678"
+  },
+  {
+    "Id": 2,
+    "FirstName": "Test",
+    "LastName": "TestLast",
+    "Email": "yyr@gmail.com",
+    "Department": "HR",
+    "PhoneNumber": "99999999"
+  }
+]
